@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_canvas_commons_docs=self.webpackChunk_canvas_commons_docs||[]).push([[5434],{8335:e=>{e.exports=JSON.parse('{"title":"Migration","slug":"/category/migration","permalink":"/docs/category/migration","navigation":{"previous":{"title":"Node.js","permalink":"/docs/plugins/node"},"next":{"title":"Update Guide","permalink":"/docs/updating"}}}')}}]);
