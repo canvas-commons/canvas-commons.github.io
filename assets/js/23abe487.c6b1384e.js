@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_canvas_commons_docs=globalThis.webpackChunk_canvas_commons_docs||[]).push([[911],{8518(e,c,n){n.r(c),n.d(c,{default:()=>o});var s=n(4041),t=n(396),a=n(657),l=n(5723);function o(){const{siteConfig:e}=(0,t.A)();return s.createElement(a.A,null,s.createElement("h2",null,"Site config"),s.createElement(l.A,{src:e,collapseDepth:3}))}}}]);

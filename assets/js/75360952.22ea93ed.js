@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_canvas_commons_docs=globalThis.webpackChunk_canvas_commons_docs||[]).push([[9920],{1693(s){s.exports=JSON.parse('{"name":"docusaurus-typedoc-plugin","id":"default"}')}}]);

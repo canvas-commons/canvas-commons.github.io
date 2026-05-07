@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_canvas_commons_docs=self.webpackChunk_canvas_commons_docs||[]).push([[3356],{3057:o=>{o.exports=JSON.parse('{"title":"Components","slug":"/category/components","permalink":"/docs/category/components","navigation":{"previous":{"title":"Configuration","permalink":"/docs/configuration"},"next":{"title":"Code","permalink":"/docs/code"}}}')}}]);

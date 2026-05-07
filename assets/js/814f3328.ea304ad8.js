@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_canvas_commons_docs=self.webpackChunk_canvas_commons_docs||[]).push([[2535],{5641:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Canvas Commons is now Open Source!","permalink":"/blog/public-release"}]}')}}]);
