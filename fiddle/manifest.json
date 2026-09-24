@@ -1,16 +1,16 @@
 {
-  "hash": "5b8adc2da50aa7c7",
-  "engineVersion": "0.3.1",
-  "stamp": "5b8adc2da50aa7c7:252e8b61",
-  "frameUrl": "/fiddle/0.3.1-5b8adc2da50aa7c7/frame.html",
-  "harnessUrl": "/fiddle/0.3.1-5b8adc2da50aa7c7/harness-D5unj3cM.js",
+  "hash": "789ac0af3408facf",
+  "engineVersion": "0.4.0",
+  "stamp": "789ac0af3408facf:252e8b61",
+  "frameUrl": "/fiddle/0.4.0-789ac0af3408facf/frame.html",
+  "harnessUrl": "/fiddle/0.4.0-789ac0af3408facf/harness-D5unj3cM.js",
   "importMap": {
     "imports": {
-      "@canvas-commons/core": "/fiddle/0.3.1-5b8adc2da50aa7c7/canvas-commons-core-BHjjBRbf.js",
-      "@canvas-commons/2d": "/fiddle/0.3.1-5b8adc2da50aa7c7/canvas-commons-2d-BGcuVoY3.js",
-      "@canvas-commons/2d/jsx-runtime": "/fiddle/0.3.1-5b8adc2da50aa7c7/canvas-commons-2d-jsx-runtime-LJVF6HlF.js"
+      "@canvas-commons/core": "/fiddle/0.4.0-789ac0af3408facf/canvas-commons-core-BHjjBRbf.js",
+      "@canvas-commons/2d": "/fiddle/0.4.0-789ac0af3408facf/canvas-commons-2d-BGcuVoY3.js",
+      "@canvas-commons/2d/jsx-runtime": "/fiddle/0.4.0-789ac0af3408facf/canvas-commons-2d-jsx-runtime-LJVF6HlF.js"
     }
   },
-  "typesUrl": "/fiddle/0.3.1-5b8adc2da50aa7c7/types.json",
+  "typesUrl": "/fiddle/0.4.0-789ac0af3408facf/types.json",
   "tsVersion": "6.0.3"
 }

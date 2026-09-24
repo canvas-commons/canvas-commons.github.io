@@ -1,1 +1,0 @@
-function e(e){return!!e.prototype?.isClass}var t=Symbol.for(`@canvas-commons/2d/fragment`);function n(n,r,i){let{ref:a,children:o,...s}=r,c=Array.isArray(o)?o.flat():o;if(n===t)return c;if(e(n)){let e=new n({...s,children:c,key:i});return a?.(e),e}return n({...s,ref:a,children:c,key:i})}export{n,t};
