@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_canvas_commons_docs=self.webpackChunk_canvas_commons_docs||[]).push([["4554"],{87313(c,s,e){e.d(s,{createArchitectureServices:()=>a.S});var a=e(73121);e(3435)}}]);

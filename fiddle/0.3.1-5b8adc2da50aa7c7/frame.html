@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self' blob: 'wasm-unsafe-eval' 'sha256-EYZzyoZ+I/turufhoU0HffkUODxwAPzYgJDXcLZcaeU=' 'sha256-s+UsO8aYYYh6XHJZPgKXhlniKUHvzbgIL7N4nlNsLjo='; style-src 'unsafe-inline'; img-src http: https: data: blob:; media-src http: https: data: blob:; font-src http: https: data: blob:; connect-src http: https: data: blob:; base-uri 'none'; form-action 'none'" />
+    <style>
+      /* A definite height keeps the canvas off its intrinsic pixel height,
+         which would make the frame scroll. */
+      html, body { height: 100%; margin: 0; overflow: hidden; }
+    </style>
+    <script type="importmap">{"imports":{"@canvas-commons/core":"/fiddle/0.3.1-5b8adc2da50aa7c7/canvas-commons-core-BHjjBRbf.js","@canvas-commons/2d":"/fiddle/0.3.1-5b8adc2da50aa7c7/canvas-commons-2d-BGcuVoY3.js","@canvas-commons/2d/jsx-runtime":"/fiddle/0.3.1-5b8adc2da50aa7c7/canvas-commons-2d-jsx-runtime-LJVF6HlF.js"}}</script>
+  </head>
+  <body>
+    <script>
+      const policy = document.createElement('meta');
+      policy.httpEquiv = 'Content-Security-Policy';
+      const directory = new URL('.', window.location.href).href.replace(/[;,]/g, encodeURIComponent);
+      policy.content = 'script-src ' + directory + " blob: 'wasm-unsafe-eval' 'sha256-EYZzyoZ+I/turufhoU0HffkUODxwAPzYgJDXcLZcaeU='";
+      document.head.append(policy);
+      const harness = document.createElement('script');
+      harness.type = 'module';
+      harness.src = "/fiddle/0.3.1-5b8adc2da50aa7c7/harness-D5unj3cM.js";
+      document.body.append(harness);
+    </script>
+  </body>
+</html>

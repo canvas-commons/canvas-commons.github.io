@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_canvas_commons_docs=self.webpackChunk_canvas_commons_docs||[]).push([["7234"],{73463(s,c,e){e.d(c,{A:()=>n});var h=e(65723);function n(s){return(0,h.jsx)("svg",{viewBox:"0 0 24 24",style:{width:16,height:16,marginTop:"0.1rem"},...s,children:(0,h.jsx)("path",{d:"M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z",fill:"currentColor"})})}e(22155)}}]);

@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunk_canvas_commons_docs=globalThis.webpackChunk_canvas_commons_docs||[]).push([[2366],{2366(s,c,a){a.r(c)}}]);
